@@ -10,7 +10,7 @@ else:
     segunda_pregunta = int(input('No as acertado, te quedan 2 intentos: '))
 
     if segunda_pregunta == numero_a_adivinar:
-        print('As ganado!')
+         print('As ganado!')
     else:
         tercera_pregunta = int(input('No as acertado, te quedan 1 intento: '))
 
